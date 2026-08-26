@@ -1,168 +1,119 @@
-# shin0biX
-
-```diff
-- 👨‍💻 Building real-time applications
-+ 🔍 Exploring secure communication systems
-```
-
 <div align="center">
-  <!-- Subtle animated typing effect using pure CSS -->
-  <style>
-    .typing-demo {
-      display: inline-block;
-      font-family: 'Courier New', monospace;
-      font-size: 1.2em;
-      color: #24292f;
-    }
-    .typing-text {
-      display: inline-block;
-      overflow: hidden;
-      border-right: 2px solid #24292f;
-      white-space: nowrap;
-      margin: 0;
-      animation: 
-        typing 3.5s steps(40, end) infinite,
-        blink-caret 0.75s step-end infinite;
-    }
-    .cursor {
-      display: inline-block;
-      width: 2px;
-      background-color: #24292f;
-    }
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 100% }
-    }
-    @keyframes blink-caret {
-      from, to { border-color: transparent }
-      50% { border-color: #24292f }
-    }
-  </style>
-  <div class="typing-demo">
-    <span class="typing-text">Developer • Builder • Learner</span>
-  </div>
+
+# Hey, I'm Ujjwal 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+with+Python+%26+the+web;Exploring+real-time+applications;Learning+and+exploring+cybersecurity" alt="Typing SVG" />
+
 </div>
 
-## About Me
+<br/>
 
-I build full-stack applications with a focus on real-time communication and security-conscious design. My work centers around creating practical tools that solve real problems, particularly in the areas of video communication, authentication systems, and deployment automation.
+## 👨‍💻 About Me
 
-Currently, I'm exploring cybersecurity concepts through hands-on implementation of secure authentication, encrypted communications, and defensive coding practices in my projects.
+I'm a developer who enjoys **building projects and learning by doing**. My journey started with Python and web development and has gradually taken me from Flask applications to building real-time systems with **FastAPI, WebSockets, and WebRTC**.
 
-## 🛠️ Technologies & Skills
+Currently, I'm exploring **cybersecurity** alongside development and learning more about how applications and systems work under the hood.
 
-Based on actual project work:
-
-**Backend Development**
-- Python (FastAPI, Flask)
-- RESTful API design
-- WebSocket communication
-- Authentication systems (JWT, bcrypt)
-- Database modeling (SQLAlchemy, SQLite)
-
-**Frontend Development**
-- HTML5, CSS3, JavaScript (Vanilla JS)
-- Tailwind CSS (via CDN)
-- WebRTC (RTCPeerConnection for P2P communication)
-- Responsive UI design
-
-**DevOps & Deployment**
-- Virtual environment management
-- systemd service deployment
-- Environment configuration (.env)
-- Dependency management (requirements.txt)
-- Local development setup
-
-**Security Practices Implemented**
-- Password hashing with bcrypt
-- JWT-based authentication
-- Secure WebSocket connections
-- Input validation and sanitization
-- Environment variable management for secrets
-
-## 🚀 Featured Projects
-
-### [Meetly](https://github.com/shin0biX/Meetly)
-*Real-time WebRTC video call & chat application*
-
-My most recent and substantial project demonstrating full-stack real-time communication capabilities:
-- **Backend**: FastAPI with WebSocket signaling, JWT authentication, persistent chat storage (SQLite)
-- **Frontend**: Vanilla JavaScript with WebRTC for peer-to-peer video/audio, Tailwind CSS via CDN
-- **Architecture**: Peer-to-peer media flow with server-mediated signaling and chat persistence
-- **Features**: User accounts, room creation/modification, persistent messaging, media controls
-- **Deployment**: Includes systemd deployment script for production setup
-- **Learning**: In-depth exploration of WebRTC NAT traversal, signaling protocols, and real-time data synchronization
-
-### [StoriX](https://github.com/shin0biX/StoriX)
-*Python web application with authentication and file management*
-
-A substantial Python web application featuring:
-- **Backend**: Modular Flask application with separate route handlers
-- **Authentication**: User registration, login, and session management
-- **File Handling**: Secure file upload/download capabilities
-- **Planning System**: Task/project management features
-- **Database**: SQLAlchemy ORM with SQLite backend
-- **Structure**: Clean separation of concerns (models, routes, database)
-
-### [flask-blog-app](https://github.com/shin0biX/flask-blog-app)
-*CSS-focused frontend development project*
-
-Demonstrates advanced CSS capabilities:
-- **Styling**: Comprehensive CSS work (2.5+ MB of actual styling/theme development)
-- **Responsive Design**: Mobile-friendly layouts and components
-- **UI Components**: Custom-built interface elements
-- **Animation**: CSS-based transitions and effects
-- **Focus**: Pure frontend development without backend dependencies
-
-## 📚 Currently Learning & Exploring
-
-Based on recent project work and repository activity:
-
-**Primary Focus**: Real-time communication systems
-- WebRTC peer-to-peer connection optimization
-- Signaling protocol design and implementation
-- NAT traversal techniques (STUN/TURN considerations)
-- Scalability considerations for mesh vs SFU architectures
-
-**Security Exploration** (through implementation):
-- Authentication system design and vulnerabilities
-- Secure credential storage and management
-- Encrypted communication channels
-- Input validation and secure coding practices
-- Environment-based secret management
-
-**Architecture Patterns**:
-- Microservice-inspired modular design (separate auth, rooms, realtime modules)
-- Event-driven architectures using WebSockets
-- Database modeling for relational data (users, rooms, messages)
-- Deployment automation and service management
-
-## 🔧 Project Structure Examples
-
-From my actual work, here's how I typically organize projects:
-
-```
-ProjectName/
-├── backend/
-│   ├── main.py              # Application entry point
-│   ├── config.py            # Configuration management
-│   ├── database.py          # Database setup/ORM
-│   ├── models.py            # Data models/schemas
-│   └── routes/              # API route handlers
-├── frontend/
-│   ├── index.html           # Entry points
-│   ├── components/          # Reusable UI elements
-│   └── js/                  # Application logic
-├── requirements.txt         # Dependencies
-├── deploy.sh                # Deployment automation
-└── README.md                # Documentation
-```
-
-## 📫 Connect
-
-- GitHub: [github.com/shin0biX](https://github.com/shin0biX)
-- Email: ujjwalfromkosi@gmail.com (from commit history)
+> 💡 I believe the best way to learn technology is to build with it.
 
 ---
 
-*This profile accurately represents my actual work and learning journey. All projects, technologies, and skills described are based on verifiable repository content and commit history.*
+## 🛠️ Technologies I've Worked With
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,sqlite" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+</p>
+
+**Tools & Technologies**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
+---
+
+## 🚀 Things I've Built
+
+### 🎥 [Meetly](https://github.com/shin0biX/Meetly)
+
+> A real-time video calling and communication application.
+
+My most substantial project so far, built while exploring the challenges behind real-time communication on the web.
+
+**Highlights:**
+
+* 📹 Peer-to-peer video and audio communication with WebRTC
+* ⚡ Real-time communication and signaling using WebSockets
+* 🔐 User authentication and protected functionality
+* 💬 Real-time chat and persistent application data
+* 🏗️ Built with a full-stack architecture using FastAPI and JavaScript
+
+**Tech:** `FastAPI` · `WebRTC` · `WebSockets` · `SQLite` · `JavaScript`
+
+---
+
+### 📖 [StoriX](https://github.com/shin0biX/StoriX)
+
+> A Python web application exploring authentication, file handling, and structured application features.
+
+A project where I worked with application architecture, routes, databases, and user-focused functionality.
+
+**Tech:** `Python` · `Web Development` · `Database`
+
+---
+
+### 🔗 [Shorty](https://github.com/shin0biX/Shorty)
+
+> A compact project focused on building practical web functionality.
+
+🔗 **[Explore the repository →](https://github.com/shin0biX/Shorty)**
+
+---
+
+### 📝 [Flask Blog App](https://github.com/shin0biX/flask-blog-app)
+
+> One of my projects from my journey learning backend web development with Flask.
+
+It represents part of my foundation in working with web applications, databases, authentication, and frontend development.
+
+🔗 **[Explore the repository →](https://github.com/shin0biX/flask-blog-app)**
+---
+
+## 🌱 Currently Exploring
+
+```text
+🔐 Cybersecurity & Penetration Testing
+🖥️ Linux, Windows & System Fundamentals
+🌐 Networking & Web Technologies
+```
+
+I'm currently focused on expanding my understanding beyond building applications—learning how systems work, how they're secured, and how to think from an attacker's perspective in legal lab environments.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shin0biX&show_icons=true&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shin0biX&hide_border=true" height="165" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's Build, Break, Learn & Repeat.
+
+**Thanks for stopping by! Feel free to explore my projects.**
+
+</div>
