@@ -1,4 +1,4 @@
-name: Generate GitHub Profile Summary
+name: Update Profile Stats
 
 on:
   schedule:
@@ -9,17 +9,29 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    name: Generate profile cards
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Generate profile summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Generate stats
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: shin0biX
-          THEME: tokyonight
+          GITHUB_USERNAME: shin0biX
+        run: python .github/scripts/generate_stats.py
+
+      - name: Commit updated stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/github-stats.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update GitHub profile stats"
+            git push
+          fi
