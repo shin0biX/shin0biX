@@ -25,11 +25,7 @@ Build → Understand → Test → Improve
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td colspan="2">
-
-### 🎥 Meetly &nbsp; 🟢 Live
+### 🎥 Meetly · 🟢 Live
 
 **Real-time video communication platform for seamless conversations.**
 
@@ -37,69 +33,40 @@ WebRTC-powered video & audio, WebSocket signaling, real-time chat, authenticatio
 
 `FastAPI` · `WebRTC` · `WebSockets` · `SQLite`
 
-🌐 [**Live Demo →**](https://meetly.ujjawalcodes.site/) &nbsp;&nbsp; 💻 [**View Repository →**](https://github.com/shin0biX/Meetly)
+🌐 [**Live Demo →**](https://meetly.ujjawalcodes.site/) &nbsp;·&nbsp; 💻 [**View Repository →**](https://github.com/shin0biX/Meetly)
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<br>
 
 ### 🔗 Shorty
 
 **Modern URL shortening with security and analytics built in.**
 
-Custom aliases, protected links, Redis caching, rate limiting, and detailed analytics.
+Custom aliases, password-protected links, Redis caching, rate limiting, and detailed click analytics.
 
 `FastAPI` · `React` · `Redis` · `SQLite`
 
-🌐 [**Live Demo →**](https://shorty.ujjawalcodes.site/) · 💻 [**Repository →**](https://github.com/shin0biX/Shorty)
+🌐 [**Live Demo →**](https://shorty.ujjawalcodes.site/) &nbsp;·&nbsp; 💻 [**View Repository →**](https://github.com/shin0biX/Shorty)
 
-</td>
-
-<td width="50%" valign="top">
+<br>
 
 ### 📦 StoriX
 
 **Full-stack file storage and management platform.**
 
-Secure file management, JWT authentication, sharing, subscription plans, and storage tracking.
+Secure file management, JWT authentication, file sharing, subscription plans, and storage tracking.
 
 `FastAPI` · `React` · `SQLAlchemy` · `SQLite`
 
-🌐 [**Live Demo →**](https://files.ujjawalcodes.site/) · 💻 [**Repository →**](https://github.com/shin0biX/StoriX)
+🌐 [**Live Demo →**](https://files.ujjawalcodes.site/) &nbsp;·&nbsp; 💻 [**View Repository →**](https://github.com/shin0biX/StoriX)
 
-</td>
-</tr>
-</table>
+<br>
 
 <div align="center">
 
-🧪 **Always building and learning** · [Explore more projects →](https://github.com/shin0biX?tab=repositories)
+🧪 <strong>Always building, experimenting, and learning.</strong><br>
+<a href="https://github.com/shin0biX?tab=repositories">Explore more projects →</a>
 
 </div>
-
-🧪 **Building more while learning.**  
-[Explore all repositories →](https://github.com/shin0biX?tab=repositories)
-
-</div>
-<td width="50%" valign="top">
-
-### 🧪 More Projects & Experiments
-
-I also build smaller projects while learning and experimenting with:
-
-- Python & backend development
-- APIs and automation
-- Frontend development
-- Flask & FastAPI
-- Security concepts and tooling
-
-👉 **[Explore all repositories →](https://github.com/shin0biX?tab=repositories)**
-
-</td>
-</tr>
-</table>
 
 ---
 
