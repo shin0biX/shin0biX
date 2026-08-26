@@ -1,26 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=170&section=header&text=shin0biX&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20systems%20%E2%80%A2%20Understanding%20how%20they%20work&descSize=18&descAlignY=60" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Cybersecurity+Learner;Build.+Break.+Understand.+Improve." alt="Typing SVG" />
+<img src="./assets/banner.svg" width="100%" alt="shin0biX — Building Systems" />
 
 </div>
 
 <br/>
 
-## 👋 Hey, I'm shin0biX
+## 👋 About Me
 
 I'm a developer who enjoys **building complete applications and understanding how they work under the hood**.
 
-My projects explore **full-stack development, real-time communication, authentication, caching, and application architecture**. Alongside development, I'm learning **cybersecurity and penetration testing** to better understand how systems can be built—and secured.
+My projects explore **full-stack development, real-time communication, authentication, caching, and application architecture**. Alongside development, I'm actively learning **cybersecurity and penetration testing** to better understand how systems work—and how they can be secured.
 
 ```text
 Build → Understand → Test → Improve
 ```
 
-- 🔭 Building full-stack applications and experimenting with new technologies
+- 🔭 Building and deploying full-stack applications
 - 🛡️ Learning cybersecurity through hands-on labs and practical environments
-- 🌱 Exploring real-time systems, application security, and backend architecture
+- 🌱 Exploring real-time systems, backend architecture, and application security
 - 💡 Interested in technology from both the **builder's and security researcher's perspective**
 
 ---
@@ -35,7 +33,7 @@ Build → Understand → Test → Improve
 
 **Real-time communication platform**
 
-A video calling and communication application built around real-time technologies.
+A deployed video calling and communication application built around real-time technologies.
 
 **Highlights**
 - WebRTC video & audio communication
@@ -44,7 +42,8 @@ A video calling and communication application built around real-time technologie
 
 `FastAPI` · `WebRTC` · `WebSockets` · `SQLite`
 
-👉 **[Explore Meetly →](https://github.com/shin0biX/Meetly)**
+🌐 **[Live Demo →](https://meetly.ujjawalcodes.site/)**  
+💻 **[View Repository →](https://github.com/shin0biX/Meetly)**
 
 </td>
 
@@ -54,16 +53,17 @@ A video calling and communication application built around real-time technologie
 
 **Modern URL shortening service**
 
-A deployed full-stack URL shortener focused on performance and useful analytics.
+A deployed full-stack URL shortener focused on performance, security, and useful analytics.
 
 **Highlights**
 - Custom aliases & password-protected links
-- Analytics for clicks, devices, browsers & locations
+- Click, device, browser & location analytics
 - Redis caching and rate limiting
 
 `FastAPI` · `React` · `Redis` · `SQLite`
 
-🌐 **[Live Demo →](https://shorty.ujjawalcodes.site/)** · **[GitHub →](https://github.com/shin0biX/Shorty)**
+🌐 **[Live Demo →](https://shorty.ujjawalcodes.site/)**  
+💻 **[View Repository →](https://github.com/shin0biX/Shorty)**
 
 </td>
 </tr>
@@ -75,28 +75,30 @@ A deployed full-stack URL shortener focused on performance and useful analytics.
 
 **File storage & management platform**
 
-A deployed application exploring authentication, file handling, storage limits, and sharing.
+A deployed application exploring authentication, file handling, storage management, and sharing.
 
 **Highlights**
-- File upload and management
+- Secure file upload and management
 - JWT authentication & bcrypt password hashing
 - Subscription plans and storage tracking
 
 `FastAPI` · `React` · `SQLAlchemy` · `SQLite`
 
-🌐 **[Live Demo →](https://files.ujjawalcodes.site/)** · **[GitHub →](https://github.com/shin0biX/StoriX)**
+🌐 **[Live Demo →](https://files.ujjawalcodes.site/)**  
+💻 **[View Repository →](https://github.com/shin0biX/StoriX)**
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧪 More Experiments
+### 🧪 More Projects & Experiments
 
-Beyond my featured projects, I build smaller applications while learning and experimenting with:
+I also build smaller projects while learning and experimenting with:
 
 - Python & backend development
 - APIs and automation
 - Frontend development
+- Flask & FastAPI
 - Security concepts and tooling
 
 👉 **[Explore all repositories →](https://github.com/shin0biX?tab=repositories)**
@@ -107,12 +109,24 @@ Beyond my featured projects, I build smaller applications while learning and exp
 
 ---
 
-## 🧰 Tech I Actually Work With
+## 🧰 Tech I Work With
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,c,cpp" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,html,css" /><br/><br/>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp" />
+
+<br/><br/>
+
+**Development**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,html,css" />
+
+<br/><br/>
+
+**Tools & Infrastructure**
+
 <img src="https://skillicons.dev/icons?i=sqlite,redis,git,github,linux,docker" />
 
 </div>
@@ -139,7 +153,7 @@ Beyond my featured projects, I build smaller applications while learning and exp
 ### 🔐 Cybersecurity
 
 - Network & service enumeration
-- Linux and Windows fundamentals
+- Linux & Windows fundamentals
 - Privilege escalation concepts
 - Web application security
 
@@ -153,7 +167,17 @@ Beyond my featured projects, I build smaller applications while learning and exp
 
 ## 📊 GitHub Activity
 
-I'm actively building, learning, and shipping projects. GitHub statistics will be added here once they're generated reliably through GitHub Actions.
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shin0biX/shin0biX/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub Statistics" />
+
+<img src="https://raw.githubusercontent.com/shin0biX/shin0biX/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Top Languages by Repository" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/shin0biX/shin0biX/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="98%" alt="GitHub Contribution Graph" />
+
+</div>
 
 ---
 
@@ -172,7 +196,5 @@ I'm actively building, learning, and shipping projects. GitHub statistics will b
 ### 💭 *Build. Break. Understand. Improve.*
 
 Thanks for stopping by. Feel free to explore my projects and follow my journey.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1033,100:161B22&height=100&section=footer" width="100%" />
 
 </div>
