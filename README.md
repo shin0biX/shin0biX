@@ -1,100 +1,128 @@
 <div align="center">
 
-# Hey, I'm Ujjwal 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+things+with+Python+%26+the+web;Exploring+real-time+applications;Learning+and+exploring+cybersecurity" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ujjawal+%F0%9F%91%8B;Full-Stack+Developer+%7C+Cybersecurity+Learner;Building+things%2C+breaking+things%2C+learning+how+they+work." alt="Typing SVG" />
 
 <br/>
 
+<p>
+  <a href="https://github.com/shin0biX">
+    <img src="https://img.shields.io/github/followers/shin0biX?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shin0biX&label=Profile%20Views&style=for-the-badge" alt="Profile views" />
+</p>
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
-I'm a developer who enjoys **building projects and learning by doing**. My journey started with Python and web development and has gradually taken me from Flask applications to building real-time systems with **FastAPI, WebSockets, and WebRTC**.
+I'm a developer who enjoys **building complete applications and understanding how they work under the hood**.
 
-Currently, I'm exploring **cybersecurity** alongside development and learning more about how applications and systems work under the hood.
+My recent projects focus on **full-stack development, authentication, real-time communication, caching, and application architecture**. Alongside development, I'm actively learning **cybersecurity and penetration testing** to better understand how systems can be built—and secured.
 
-> 💡 I believe the best way to learn technology is to build with it.
+- 🔭 Currently building and improving **full-stack applications**
+- 🛡️ Learning **Cybersecurity & Penetration Testing**
+- 🌱 Exploring **FastAPI, WebRTC, WebSockets, and application security**
+- 💡 Interested in understanding systems from both the **builder's and attacker's perspective**
 
 ---
 
-## 🛠️ Technologies I've Worked With
+## 🚀 Featured Projects
 
-**Backend & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,sqlite" />
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
-</p>
-
-**Tools & Technologies**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
-</p>
----
-
-## 🚀 Things I've Built
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎥 [Meetly](https://github.com/shin0biX/Meetly)
 
-> A real-time video calling and communication application.
+A real-time video calling and communication application built around **WebRTC and WebSockets**.
 
-My most substantial project so far, built while exploring the challenges behind real-time communication on the web.
+**Highlights**
+- Peer-to-peer video and audio communication
+- Real-time chat and signaling
+- User authentication and persistent rooms
+- JWT-based authentication
 
-**Highlights:**
+**Stack:** `FastAPI` `WebRTC` `WebSockets` `SQLite`
 
-* 📹 Peer-to-peer video and audio communication with WebRTC
-* ⚡ Real-time communication and signaling using WebSockets
-* 🔐 User authentication and protected functionality
-* 💬 Real-time chat and persistent application data
-* 🏗️ Built with a full-stack architecture using FastAPI and JavaScript
-
-**Tech:** `FastAPI` · `WebRTC` · `WebSockets` · `SQLite` · `JavaScript`
-
----
-
-### 📖 [StoriX](https://github.com/shin0biX/StoriX)
-
-> A Python web application exploring authentication, file handling, and structured application features.
-
-A project where I worked with application architecture, routes, databases, and user-focused functionality.
-
-**Tech:** `Python` · `Web Development` · `Database`
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🔗 [Shorty](https://github.com/shin0biX/Shorty)
 
-> A compact project focused on building practical web functionality.
+A full-stack URL shortener with analytics, caching, and protected links.
 
-🔗 **[Explore the repository →](https://github.com/shin0biX/Shorty)**
+**Highlights**
+- Custom short links and aliases
+- Password-protected URLs
+- Click and device analytics
+- Redis caching and rate limiting
+
+**Stack:** `FastAPI` `React` `Redis` `SQLite`
+
+🌐 **[Live Demo →](https://shorty.ujjawalcodes.site/)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📦 [StoriX](https://github.com/shin0biX/StoriX)
+
+A file storage and management platform with authentication and storage plans.
+
+**Highlights**
+- File upload and management
+- JWT authentication with bcrypt
+- Storage usage tracking
+- File sharing and plan-based limits
+
+**Stack:** `FastAPI` `React` `SQLAlchemy` `SQLite`
+
+🌐 **[Live Demo →](https://files.ujjawalcodes.site/)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 More Projects
+
+I'm continuously experimenting and building while learning.
+
+Check out my repositories for projects involving:
+
+- Python & web development
+- FastAPI & Flask
+- React and frontend development
+- Automation and APIs
+- Security experiments & learning
+
+👉 **[Explore all repositories →](https://github.com/shin0biX?tab=repositories)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📝 [Flask Blog App](https://github.com/shin0biX/flask-blog-app)
+## 🧰 Technologies I Work With
 
-> One of my projects from my journey learning backend web development with Flask.
+<div align="center">
 
-It represents part of my foundation in working with web applications, databases, authentication, and frontend development.
+### Languages & Backend
 
-🔗 **[Explore the repository →](https://github.com/shin0biX/flask-blog-app)**
----
+<img src="https://skillicons.dev/icons?i=python,js,cpp,c,fastapi,flask" />
 
-## 🌱 Currently Exploring
+### Frontend & Databases
 
-```text
-🔐 Cybersecurity & Penetration Testing
-🖥️ Linux, Windows & System Fundamentals
-🌐 Networking & Web Technologies
-```
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,sqlite" />
 
-I'm currently focused on expanding my understanding beyond building applications—learning how systems work, how they're secured, and how to think from an attacker's perspective in legal lab environments.
+### Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,redis" />
+
+</div>
 
 ---
 
@@ -102,18 +130,52 @@ I'm currently focused on expanding my understanding beyond building applications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shin0biX&show_icons=true&hide_border=true&include_all_commits=true" height="165" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shin0biX&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shin0biX&hide_border=true" height="165" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shin0biX&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shin0biX&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
+> 📌 **Note:** GitHub statistics are generated from public GitHub activity and may take some time to update.
+
+---
+
+## 🛡️ Currently Learning
+
+```text
+Development              Cybersecurity
+─────────────           ─────────────
+FastAPI & APIs      →   Network Enumeration
+Real-time Apps      →   Linux & Windows Privilege Escalation
+Application Auth    →   Web Security
+System Architecture →   Penetration Testing Methodology
+```
+
+I'm currently focused on understanding **how applications and systems work internally**, because building better software and securing it go hand in hand.
+
+---
+
+## 🌱 What's Next?
+
+- Build more production-style full-stack projects
+- Improve deployment and infrastructure knowledge
+- Continue hands-on cybersecurity labs and practical learning
+- Apply security concepts to the applications I build
 
 ---
 
 <div align="center">
 
-### 💬 Let's Build, Break, Learn & Repeat.
+### 💭 *Build. Break. Understand. Improve.*
 
-**Thanks for stopping by! Feel free to explore my projects.**
+Thanks for visiting! Feel free to explore my projects and follow along with my journey.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" width="100%" />
 
 </div>
