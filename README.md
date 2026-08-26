@@ -31,7 +31,7 @@ I work on full-stack applications and like exploring how different parts of a sy
 
 ## 🚀 Featured Projects
 
-### 🎥 Meetly <sup>🟢 LIVE</sup>
+### 🎥 Meetly 
 
 **A real-time communication app built around the challenges of making people connect online.**
 
@@ -43,7 +43,7 @@ From WebRTC video and audio to WebSocket signaling, chat, authentication, and pe
 
 ---
 
-### 🔗 Shorty <sup>🟢 LIVE</sup>
+### 🔗 Shorty
 
 **More than just shortening a URL.**
 
@@ -55,7 +55,7 @@ Shorty explores the systems behind a modern link service—custom aliases, prote
 
 ---
 
-### 📦 StoriX <sup>🟢 LIVE</sup>
+### 📦 StoriX
 
 **An experiment in building a complete file management experience.**
 
