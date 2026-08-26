@@ -169,13 +169,13 @@ I also build smaller projects while learning and experimenting with:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shin0biX/shin0biX/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub Statistics" />
-
-<img src="https://raw.githubusercontent.com/shin0biX/shin0biX/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Top Languages by Repository" />
+<img width="49%" src="https://raw.githubusercontent.com/shin0biX/shin0biX/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+<img width="49%" src="https://raw.githubusercontent.com/shin0biX/shin0biX/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/shin0biX/shin0biX/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="98%" alt="GitHub Contribution Graph" />
+<img width="49%" src="https://raw.githubusercontent.com/shin0biX/shin0biX/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" />
+<img width="49%" src="https://raw.githubusercontent.com/shin0biX/shin0biX/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages by Repository" />
 
 </div>
 
