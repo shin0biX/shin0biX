@@ -27,45 +27,17 @@ Build → Understand → Test → Improve
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" colspan="2">
 
-### 🎥 Meetly
+### 🎥 Meetly <sub>● LIVE</sub>
 
-**Real-time communication platform**
+**Real-time video communication platform built for seamless conversations.**
 
-A deployed video calling and communication application built around real-time technologies.
-
-**Highlights**
-- WebRTC video & audio communication
-- WebSocket-based real-time signaling and chat
-- Authentication and persistent rooms
+WebRTC-powered video and audio, WebSocket signaling, real-time chat, authentication, and persistent meeting rooms.
 
 `FastAPI` · `WebRTC` · `WebSockets` · `SQLite`
 
-🌐 **[Live Demo →](https://meetly.ujjawalcodes.site/)**  
-
-💻 **[View Repository →](https://github.com/shin0biX/Meetly)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔗 Shorty
-
-**Modern URL shortening service**
-
-A deployed full-stack URL shortener focused on performance, security, and useful analytics.
-
-**Highlights**
-- Custom aliases & password-protected links
-- Click, device, browser & location analytics
-- Redis caching and rate limiting
-
-`FastAPI` · `React` · `Redis` · `SQLite`
-
-🌐 **[Live Demo →](https://shorty.ujjawalcodes.site/)**  
-
-💻 **[View Repository →](https://github.com/shin0biX/Shorty)**
+🌐 [**Try Meetly →**](https://meetly.ujjawalcodes.site/) &nbsp;&nbsp; 💻 [**Source Code →**](https://github.com/shin0biX/Meetly)
 
 </td>
 </tr>
@@ -73,25 +45,44 @@ A deployed full-stack URL shortener focused on performance, security, and useful
 <tr>
 <td width="50%" valign="top">
 
-### 📦 StoriX
+### 🔗 Shorty
 
-**File storage & management platform**
+**A modern URL shortener with security and analytics built in.**
 
-A deployed application exploring authentication, file handling, storage management, and sharing.
+Custom aliases, password-protected links, Redis caching, rate limiting, and detailed click analytics.
 
-**Highlights**
-- Secure file upload and management
-- JWT authentication & bcrypt password hashing
-- Subscription plans and storage tracking
+`FastAPI` · `React` · `Redis` · `SQLite`
 
-`FastAPI` · `React` · `SQLAlchemy` · `SQLite`
-
-🌐 **[Live Demo →](https://files.ujjawalcodes.site/)**  
-
-💻 **[View Repository →](https://github.com/shin0biX/StoriX)**
+🌐 [**Live Demo →**](https://shorty.ujjawalcodes.site/)  
+💻 [**Source Code →**](https://github.com/shin0biX/Shorty)
 
 </td>
 
+<td width="50%" valign="top">
+
+### 📦 StoriX
+
+**A full-stack file storage and management platform.**
+
+Secure file management, JWT authentication, sharing, subscription plans, and storage tracking.
+
+`FastAPI` · `React` · `SQLAlchemy` · `SQLite`
+
+🌐 [**Live Demo →**](https://files.ujjawalcodes.site/)  
+💻 [**Source Code →**](https://github.com/shin0biX/StoriX)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+🧪 **Building more while learning.**  
+[Explore all repositories →](https://github.com/shin0biX?tab=repositories)
+
+</div>
 <td width="50%" valign="top">
 
 ### 🧪 More Projects & Experiments
