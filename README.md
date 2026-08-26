@@ -43,6 +43,7 @@ A deployed video calling and communication application built around real-time te
 `FastAPI` · `WebRTC` · `WebSockets` · `SQLite`
 
 🌐 **[Live Demo →](https://meetly.ujjawalcodes.site/)**  
+
 💻 **[View Repository →](https://github.com/shin0biX/Meetly)**
 
 </td>
@@ -63,6 +64,7 @@ A deployed full-stack URL shortener focused on performance, security, and useful
 `FastAPI` · `React` · `Redis` · `SQLite`
 
 🌐 **[Live Demo →](https://shorty.ujjawalcodes.site/)**  
+
 💻 **[View Repository →](https://github.com/shin0biX/Shorty)**
 
 </td>
@@ -85,6 +87,7 @@ A deployed application exploring authentication, file handling, storage manageme
 `FastAPI` · `React` · `SQLAlchemy` · `SQLite`
 
 🌐 **[Live Demo →](https://files.ujjawalcodes.site/)**  
+
 💻 **[View Repository →](https://github.com/shin0biX/StoriX)**
 
 </td>
@@ -169,13 +172,7 @@ I also build smaller projects while learning and experimenting with:
 
 <div align="center">
 
-<img width="49%" src="https://raw.githubusercontent.com/shin0biX/shin0biX/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
-<img width="49%" src="https://raw.githubusercontent.com/shin0biX/shin0biX/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
-
-<br/><br/>
-
-<img width="49%" src="https://raw.githubusercontent.com/shin0biX/shin0biX/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Used Languages" />
-<img width="49%" src="https://raw.githubusercontent.com/shin0biX/shin0biX/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Languages by Repository" />
+<img src="./assets/github-stats.svg" width="100%" alt="shin0biX GitHub Activity" />
 
 </div>
 
