@@ -27,17 +27,17 @@ Build → Understand → Test → Improve
 
 <table>
 <tr>
-<td width="100%" colspan="2">
+<td colspan="2">
 
-### 🎥 Meetly <sub>● LIVE</sub>
+### 🎥 Meetly &nbsp; 🟢 Live
 
-**Real-time video communication platform built for seamless conversations.**
+**Real-time video communication platform for seamless conversations.**
 
-WebRTC-powered video and audio, WebSocket signaling, real-time chat, authentication, and persistent meeting rooms.
+WebRTC-powered video & audio, WebSocket signaling, real-time chat, authentication, and persistent meeting rooms.
 
 `FastAPI` · `WebRTC` · `WebSockets` · `SQLite`
 
-🌐 [**Try Meetly →**](https://meetly.ujjawalcodes.site/) &nbsp;&nbsp; 💻 [**Source Code →**](https://github.com/shin0biX/Meetly)
+🌐 [**Live Demo →**](https://meetly.ujjawalcodes.site/) &nbsp;&nbsp; 💻 [**View Repository →**](https://github.com/shin0biX/Meetly)
 
 </td>
 </tr>
@@ -47,14 +47,13 @@ WebRTC-powered video and audio, WebSocket signaling, real-time chat, authenticat
 
 ### 🔗 Shorty
 
-**A modern URL shortener with security and analytics built in.**
+**Modern URL shortening with security and analytics built in.**
 
-Custom aliases, password-protected links, Redis caching, rate limiting, and detailed click analytics.
+Custom aliases, protected links, Redis caching, rate limiting, and detailed analytics.
 
 `FastAPI` · `React` · `Redis` · `SQLite`
 
-🌐 [**Live Demo →**](https://shorty.ujjawalcodes.site/)  
-💻 [**Source Code →**](https://github.com/shin0biX/Shorty)
+🌐 [**Live Demo →**](https://shorty.ujjawalcodes.site/) · 💻 [**Repository →**](https://github.com/shin0biX/Shorty)
 
 </td>
 
@@ -62,14 +61,13 @@ Custom aliases, password-protected links, Redis caching, rate limiting, and deta
 
 ### 📦 StoriX
 
-**A full-stack file storage and management platform.**
+**Full-stack file storage and management platform.**
 
 Secure file management, JWT authentication, sharing, subscription plans, and storage tracking.
 
 `FastAPI` · `React` · `SQLAlchemy` · `SQLite`
 
-🌐 [**Live Demo →**](https://files.ujjawalcodes.site/)  
-💻 [**Source Code →**](https://github.com/shin0biX/StoriX)
+🌐 [**Live Demo →**](https://files.ujjawalcodes.site/) · 💻 [**Repository →**](https://github.com/shin0biX/StoriX)
 
 </td>
 </tr>
@@ -77,7 +75,9 @@ Secure file management, JWT authentication, sharing, subscription plans, and sto
 
 <div align="center">
 
-<br/>
+🧪 **Always building and learning** · [Explore more projects →](https://github.com/shin0biX?tab=repositories)
+
+</div>
 
 🧪 **Building more while learning.**  
 [Explore all repositories →](https://github.com/shin0biX?tab=repositories)
