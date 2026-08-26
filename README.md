@@ -6,71 +6,64 @@
 
 <br/>
 
-## 👋 About Me
+## 👋 Hey, I'm shin0biX
 
-I'm a developer who enjoys **building complete applications and understanding how they work under the hood**.
+I like taking an idea and figuring out how to turn it into something that actually works.
 
-My projects explore **full-stack development, real-time communication, authentication, caching, and application architecture**. Alongside development, I'm actively learning **cybersecurity and penetration testing** to better understand how systems work—and how they can be secured.
+Most of my time goes into building applications, experimenting with backend systems, and understanding what happens beneath the surface. Recently, I've also been exploring cybersecurity—learning how systems are discovered, tested, and secured.
 
-```text
-Build → Understand → Test → Improve
-```
-
-- 🔭 Building and deploying full-stack applications
-- 🛡️ Learning cybersecurity through hands-on labs and practical environments
-- 🌱 Exploring real-time systems, backend architecture, and application security
-- 💡 Interested in technology from both the **builder's and security researcher's perspective**
+> **Build it. Understand it. Challenge it. Make it better.**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Things I've Built
 
-### 🎥 Meetly · 🟢 Live
+### 🎥 Meetly <sup>🟢 LIVE</sup>
 
-**Real-time video communication platform for seamless conversations.**
+A real-time communication app built around the challenges of making people connect live.
 
-WebRTC-powered video & audio, WebSocket signaling, real-time chat, authentication, and persistent meeting rooms.
+From WebRTC video and audio to WebSocket signaling, chat, authentication, and persistent rooms—Meetly is my exploration of how real-time applications come together.
 
 `FastAPI` · `WebRTC` · `WebSockets` · `SQLite`
 
-🌐 [**Live Demo →**](https://meetly.ujjawalcodes.site/) &nbsp;·&nbsp; 💻 [**View Repository →**](https://github.com/shin0biX/Meetly)
+🌐 [**Try Meetly →**](https://meetly.ujjawalcodes.site/) &nbsp;·&nbsp; 💻 [**Explore the code →**](https://github.com/shin0biX/Meetly)
 
-<br>
+---
 
-### 🔗 Shorty
+### 🔗 Shorty <sup>🟢 LIVE</sup>
 
-**Modern URL shortening with security and analytics built in.**
+More than just shortening a URL.
 
-Custom aliases, password-protected links, Redis caching, rate limiting, and detailed click analytics.
+Shorty explores the systems behind a modern link service—custom aliases, protected links, caching, rate limiting, and analytics that happen without getting in the way.
 
 `FastAPI` · `React` · `Redis` · `SQLite`
 
-🌐 [**Live Demo →**](https://shorty.ujjawalcodes.site/) &nbsp;·&nbsp; 💻 [**View Repository →**](https://github.com/shin0biX/Shorty)
+🌐 [**Try Shorty →**](https://shorty.ujjawalcodes.site/) &nbsp;·&nbsp; 💻 [**Explore the code →**](https://github.com/shin0biX/Shorty)
 
-<br>
+---
 
-### 📦 StoriX
+### 📦 StoriX <sup>🟢 LIVE</sup>
 
-**Full-stack file storage and management platform.**
+An experiment in building a complete file management experience.
 
-Secure file management, JWT authentication, file sharing, subscription plans, and storage tracking.
+Users can manage files, track their storage, share content, and interact with features shaped around authentication and subscription plans.
 
 `FastAPI` · `React` · `SQLAlchemy` · `SQLite`
 
-🌐 [**Live Demo →**](https://files.ujjawalcodes.site/) &nbsp;·&nbsp; 💻 [**View Repository →**](https://github.com/shin0biX/StoriX)
+🌐 [**Try StoriX →**](https://files.ujjawalcodes.site/) &nbsp;·&nbsp; 💻 [**Explore the code →**](https://github.com/shin0biX/StoriX)
 
 <br>
 
 <div align="center">
 
-🧪 <strong>Always building, experimenting, and learning.</strong><br>
-<a href="https://github.com/shin0biX?tab=repositories">Explore more projects →</a>
+🧪 **There are always more things being built behind the scenes.**  
+[**Explore all repositories →**](https://github.com/shin0biX?tab=repositories)
 
 </div>
 
 ---
 
-## 🧰 Tech I Work With
+## 🧰 My Toolbox
 
 <div align="center">
 
@@ -80,7 +73,7 @@ Secure file management, JWT authentication, file sharing, subscription plans, an
 
 <br/><br/>
 
-**Development**
+**Building with**
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,react,html,css" />
 
@@ -94,27 +87,31 @@ Secure file management, JWT authentication, file sharing, subscription plans, an
 
 ---
 
-## 🛡️ Currently Exploring
+## 🧭 What I'm Exploring
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Development
+### ⚙️ Building Systems
+
+I'm interested in what makes an application work beyond the interface:
 
 - Backend architecture
-- Real-time applications
-- APIs & authentication
+- APIs and authentication
+- Real-time communication
 - Deployment and infrastructure
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔐 Cybersecurity
+### 🛡️ Understanding Security
 
-- Network & service enumeration
-- Linux & Windows fundamentals
+I'm currently learning through hands-on labs and practical environments:
+
+- Network and service enumeration
+- Linux and Windows fundamentals
 - Privilege escalation concepts
 - Web application security
 
@@ -122,7 +119,7 @@ Secure file management, JWT authentication, file sharing, subscription plans, an
 </tr>
 </table>
 
-> *Learning security helps me build with a better understanding of what can go wrong.*
+> *The more I learn about how systems can fail, the better I understand how to build them.*
 
 ---
 
@@ -148,8 +145,10 @@ Secure file management, JWT authentication, file sharing, subscription plans, an
 
 <div align="center">
 
-### 💭 *Build. Break. Understand. Improve.*
+### *Still learning. Still building.*
 
-Thanks for stopping by. Feel free to explore my projects and follow my journey.
+Every project teaches me something new—whether it's a better way to build a system or a better understanding of how one works.
+
+**Thanks for stopping by. 👋**
 
 </div>
