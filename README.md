@@ -1,63 +1,76 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="shin0biX — Building Systems" />
-
-</div>
+<img src="./assets/banner.svg" width="100%" alt="shin0biX — Developer & Security Learner" />
 
 <br/>
 
-## 👋 Hey, I'm shin0biX
+<p>
+  <a href="https://github.com/shin0biX?tab=repositories">Projects</a>
+  ·
+  <a href="https://github.com/shin0biX">GitHub</a>
+</p>
 
-I like taking an idea and figuring out how to turn it into something that actually works.
-
-Most of my time goes into building applications, experimenting with backend systems, and understanding what happens beneath the surface. Recently, I've also been exploring cybersecurity—learning how systems are discovered, tested, and secured.
-
-> **Build it. Understand it. Challenge it. Make it better.**
+</div>
 
 ---
 
-## 🚀 Things I've Built
+## 👋 About Me
+
+I'm a developer who enjoys building things and understanding **what happens behind the interface**.
+
+I work on full-stack applications and like exploring how different parts of a system connect—from authentication and APIs to real-time communication and deployment. Alongside development, I'm learning cybersecurity to understand systems from both the **builder's and attacker's perspective**.
+
+> **Build → Understand → Test → Improve**
+
+- 🔭 Building and deploying full-stack applications
+- 🛡️ Learning cybersecurity through hands-on labs and practical environments
+- 🌱 Exploring backend architecture, real-time systems, and application security
+- 💡 Interested in understanding how systems work—not just how to use them
+
+---
+
+## 🚀 Featured Projects
 
 ### 🎥 Meetly <sup>🟢 LIVE</sup>
 
-A real-time communication app built around the challenges of making people connect live.
+**A real-time communication app built around the challenges of making people connect online.**
 
-From WebRTC video and audio to WebSocket signaling, chat, authentication, and persistent rooms—Meetly is my exploration of how real-time applications come together.
+From WebRTC video and audio to WebSocket signaling, chat, authentication, and persistent rooms—Meetly brings multiple real-time technologies together in one application.
 
 `FastAPI` · `WebRTC` · `WebSockets` · `SQLite`
 
-🌐 [**Try Meetly →**](https://meetly.ujjawalcodes.site/) &nbsp;·&nbsp; 💻 [**Explore the code →**](https://github.com/shin0biX/Meetly)
+🌐 [**Try Meetly →**](https://meetly.ujjawalcodes.site/) &nbsp;&nbsp; 💻 [**Explore the code →**](https://github.com/shin0biX/Meetly)
 
 ---
 
 ### 🔗 Shorty <sup>🟢 LIVE</sup>
 
-More than just shortening a URL.
+**More than just shortening a URL.**
 
-Shorty explores the systems behind a modern link service—custom aliases, protected links, caching, rate limiting, and analytics that happen without getting in the way.
+Shorty explores the systems behind a modern link service—custom aliases, protected links, caching, rate limiting, and analytics—without getting in the way of the user.
 
 `FastAPI` · `React` · `Redis` · `SQLite`
 
-🌐 [**Try Shorty →**](https://shorty.ujjawalcodes.site/) &nbsp;·&nbsp; 💻 [**Explore the code →**](https://github.com/shin0biX/Shorty)
+🌐 [**Try Shorty →**](https://shorty.ujjawalcodes.site/) &nbsp;&nbsp; 💻 [**Explore the code →**](https://github.com/shin0biX/Shorty)
 
 ---
 
 ### 📦 StoriX <sup>🟢 LIVE</sup>
 
-An experiment in building a complete file management experience.
+**An experiment in building a complete file management experience.**
 
-Users can manage files, track their storage, share content, and interact with features shaped around authentication and subscription plans.
+Secure file management, authentication, sharing, subscription plans, and storage tracking—all connected through a full-stack application.
 
 `FastAPI` · `React` · `SQLAlchemy` · `SQLite`
 
-🌐 [**Try StoriX →**](https://files.ujjawalcodes.site/) &nbsp;·&nbsp; 💻 [**Explore the code →**](https://github.com/shin0biX/StoriX)
+🌐 [**Try StoriX →**](https://files.ujjawalcodes.site/) &nbsp;&nbsp; 💻 [**Explore the code →**](https://github.com/shin0biX/StoriX)
 
-<br>
+<br/>
 
 <div align="center">
 
-🧪 **There are always more things being built behind the scenes.**  
-[**Explore all repositories →**](https://github.com/shin0biX?tab=repositories)
+🧪 **Always building, experimenting, and learning.**  
+[Explore more projects →](https://github.com/shin0biX?tab=repositories)
 
 </div>
 
@@ -67,20 +80,13 @@ Users can manage files, track their storage, share content, and interact with fe
 
 <div align="center">
 
-**Languages**
-
+**Languages**  
 <img src="https://skillicons.dev/icons?i=python,js,c,cpp" />
 
-<br/><br/>
-
-**Building with**
-
+**Building with**  
 <img src="https://skillicons.dev/icons?i=fastapi,flask,react,html,css" />
 
-<br/><br/>
-
-**Tools & Infrastructure**
-
+**Tools & Infrastructure**  
 <img src="https://skillicons.dev/icons?i=sqlite,redis,git,github,linux,docker" />
 
 </div>
@@ -103,7 +109,6 @@ I'm interested in what makes an application work beyond the interface:
 - Deployment and infrastructure
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🛡️ Understanding Security
@@ -137,7 +142,7 @@ I'm currently learning through hands-on labs and practical environments:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shin0biX/shin0biX/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/shin0biX/shin0biX/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -145,10 +150,10 @@ I'm currently learning through hands-on labs and practical environments:
 
 <div align="center">
 
-### *Still learning. Still building.*
+### 💭 *Build. Break. Understand. Improve.*
 
-Every project teaches me something new—whether it's a better way to build a system or a better understanding of how one works.
+I'm documenting the journey through the things I build and the systems I learn about.
 
-**Thanks for stopping by. 👋**
+**Thanks for stopping by.**
 
 </div>
