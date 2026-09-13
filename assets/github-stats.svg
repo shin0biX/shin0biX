@@ -44,7 +44,7 @@ aria-label="GitHub activity for shin0biX">
       fill="#484F58"
       font-family="monospace"
       font-size="11">
-  UPDATED 12 SEP 2026
+  UPDATED 13 SEP 2026
 </text>
 
 <line x1="32" y1="65" x2="1068" y2="65"
@@ -58,7 +58,7 @@ aria-label="GitHub activity for shin0biX">
         text-anchor="middle"
         fill="#C9D1D9"
         font-size="34"
-        font-weight="bold">82</text>
+        font-weight="bold">83</text>
 
   <text x="170" y="155"
         text-anchor="middle"
@@ -97,7 +97,7 @@ aria-label="GitHub activity for shin0biX">
         text-anchor="middle"
         fill="#C9D1D9"
         font-size="18"
-        font-weight="bold">CSS · HTML · Python</text>
+        font-weight="bold">CSS · JavaScript · Python</text>
 
   <text x="900" y="155"
         text-anchor="middle"
